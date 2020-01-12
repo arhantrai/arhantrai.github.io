@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## Resume of Firstname Middlename Lastname
 
-You can use the [editor on GitHub](https://github.com/arhantrai/arhantrai.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Firstname Middlename Lastname
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Student of 2nd semester at [GNE](https://gndec.ac.in).
+
+![userName](http://code.gdy.club/~hsrai/Images/ppsFace.jpg)
+
+My resume website developed in
+[MarkDown](https://hackernoon.com/boost-your-productivity-using-markdown-b8a84fc2a089).
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. 
+It includes conventions for C:
 
-```markdown
-Syntax highlighted code block
+```C
+puts("Empowerment with C");
 
-# Header 1
-## Header 2
-### Header 3
+# Heading
+## Sub-Heading
+### Sub sub-heading
 
-- Bulleted
-- List
+## Skill Set
 
-1. Numbered
-2. List
+- Model making
+- FreeCAD
+- MarkDown
+- C
 
-**Bold** and _Italic_ and `Code` text
+## Hobbies
+
+1. Chess
+1. Computer Programming
+
+**Bold**
+
+**Love GNE**
+
+_Italic_
+
+_Be focused_
+
+`Code` text
+
+Learn C: `puts("Love India")`
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arhantrai/arhantrai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[GNE](https://gndec.ac.in)
