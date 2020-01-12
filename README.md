@@ -16,6 +16,7 @@ It includes conventions for C:
 
 ```C
 puts("Empowerment with C");
+```
 
 # Heading
 ## Sub-Heading
