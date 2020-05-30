@@ -1,4 +1,4 @@
-[rm2w.jpg](Image/rm2w.jpg)
+![rm2w.jpg](Image/rm2w.jpg)
 
 
 ## Resume of Firstname Middlename Lastname
