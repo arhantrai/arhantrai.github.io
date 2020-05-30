@@ -1,3 +1,6 @@
+[rm2w.jpg](Image/rm2w.jpg)
+
+
 ## Resume of Firstname Middlename Lastname
 
 # Firstname Middlename Lastname
